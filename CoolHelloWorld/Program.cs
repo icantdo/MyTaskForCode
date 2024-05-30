@@ -11,7 +11,7 @@ namespace CoolHelloWorld
     {
         static void Main(string[] args)
         {
-            string x = "helloword";
+            string x = "helloworld";
             int[] map = new int[26];
             for (int i = 0; i < 5; i++)
             {

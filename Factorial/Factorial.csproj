@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B822C97C-C633-4090-AE2B-7322B8752A99}</ProjectGuid>
+    <ProjectGuid>{A71A6A4B-2008-40A1-8D48-706FF839EB1C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FollowLibraryBook</RootNamespace>
-    <AssemblyName>FollowLibraryBook</AssemblyName>
+    <RootNamespace>Factorial</RootNamespace>
+    <AssemblyName>Factorial</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Trie.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
